@@ -100,8 +100,9 @@ httpd.serve_forever()
 
 ![alt text](<Screenshot 2025-03-22 223434.png>)
 
-Name:D.Nitish Adavan
-Reg no:212224240107
+## Name:D.Nitish Adavan
+
+## Reg no:212224240107
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
